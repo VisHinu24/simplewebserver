@@ -83,8 +83,9 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![output1](https://github.com/VisHinu24/simplewebserver/assets/144244396/897b5b40-3749-408e-bc73-b6f3b5553a20)
-![output2](https://github.com/VisHinu24/simplewebserver/assets/144244396/b0a463df-565c-4de3-bbca-69509e0af82b)
+![simple_web](https://github.com/VisHinu24/simplewebserver/assets/144244396/fcf3b704-06e7-4a9c-bd5a-003dd9d87412)
+
+![Screenshot 2024-03-15 133647](https://github.com/VisHinu24/simplewebserver/assets/144244396/7a01c2b5-2157-4ee0-a0dc-d52e59959cbc)
 
 
 ## RESULT:
