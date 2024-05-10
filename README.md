@@ -1,5 +1,8 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:22/03/2024
+
+## Name : H Vishinu
+## Reg.No : 212223220124
 
 ## AIM:
 To develop a simple webserver to serve html pages.
