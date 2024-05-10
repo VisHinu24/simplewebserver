@@ -7,19 +7,14 @@ To develop a simple webserver to serve html pages.
 ## DESIGN STEPS:
 ### Step 1: 
 HTML content creation.
-
 ### Step 2:
 Design of webserver workflow.
-
 ### Step 3:
 Implementation using Python code.
-
 ### Step 4:
 Serving the HTML pages.
-
 ### Step 5:
 Testing the webserver.
-
 ## PROGRAM:
 ```
 from http.server import HTTPServer, BaseHTTPRequestHandler
@@ -34,38 +29,31 @@ content = """
 <th> Company </th>
 <th> Revenue </th>
 </tr>
-
 <tr>
 <td> 1. </td>
 <td> Microsoft </td>
 <td> 65 Billion  </td>
 </tr>
-
 <tr>
 <td> 2. </td>
 <td> Oracle </td>
 <td> 29.6 Billion  </td>
 </tr>
-
 <tr>
 <td> 3. </td>
 <td> IBM </td>
 <td> 29.1 Billion  </td>
 </tr> 
-
 <tr>
 <td> 4. </td>
 <td> SAP </td>
 <td> 6.4 Billion </td>
 </tr> 
- 
 <tr>
 <td> 5. </td>
 <td> Syamntec </td>
 <td> 5.6 Billion </td>
 </tr>
-
-
 </table>
 </body>
 </html>
